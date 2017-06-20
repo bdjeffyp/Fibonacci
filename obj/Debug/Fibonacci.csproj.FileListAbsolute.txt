@@ -1,0 +1,6 @@
+/Users/jeff_peterson/Projects/Fibonacci/bin/Debug/Fibonacci.exe.config
+/Users/jeff_peterson/Projects/Fibonacci/bin/Debug/Fibonacci.exe
+/Users/jeff_peterson/Projects/Fibonacci/bin/Debug/Fibonacci.pdb
+/Users/jeff_peterson/Projects/Fibonacci/obj/Debug/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/jeff_peterson/Projects/Fibonacci/obj/Debug/Fibonacci.exe
+/Users/jeff_peterson/Projects/Fibonacci/obj/Debug/Fibonacci.pdb
